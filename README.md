@@ -8,7 +8,7 @@ Este pequeño aporte lo hago para facilitar la carga de los datos de ciudades y 
 
 Para poer ejecutar sin problemas la migración, hay que tener en cuenta que fue realizada utilizando migraciones y Modelos particulares. El aporte se encuentra en desarrollo, en un futuro cercano implementaré el tema de las capitales de las provincias y para más adelante ver la posibilidad de completar con mas metadatos y enriquecer aun mas las base de datos. 
 
-###### Vamos a utilizarla
+#### Vamos a utilizarla
 
 Lo primero que debemos hacer es descargar este repositorio en nuestra PC y luego seguir estas indicaciones. 
 
@@ -19,6 +19,12 @@ Lo primero que debemos hacer es descargar este repositorio en nuestra PC y luego
   1. "**php artisan migrate**".
   2. "**php artisan db:seed**". 
 
-###### Aclaraciones
+#### Aclaraciones
 
 Siéntete en libertad de modificar el código para que funcione en tu proyecto!!!
+
+#### Pote en contacto con migo
+
+[Facebook](https://www.facebook.com/matias.krabzik)
+
+[Twitter](https://twitter.com/MKrabzik)
