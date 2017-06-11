@@ -23,7 +23,7 @@ Lo primero que debemos hacer es descargar este repositorio en nuestra PC y luego
 
 Siéntete en libertad de modificar el código para que funcione en tu proyecto!!!
 
-#### Pote en contacto con migo
+#### Ponte en contacto con migo
 
 [Facebook](https://www.facebook.com/matias.krabzik)
 
